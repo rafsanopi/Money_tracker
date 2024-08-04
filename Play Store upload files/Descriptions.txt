@@ -1,0 +1,9 @@
+App name: Money Tracker
+
+Description: Money Tracker is a versatile and user-friendly expense management and budget planning app designed to streamline your financial life. With secure Google account login, you can effortlessly track income, expenses, and set personalized budgets to stay on top of your finances. The app empowers you with interactive reports and timely reminders, providing valuable financial insights to make informed decisions. Whether you're a business professional, student, or homemaker, Money Tracker is tailored to suit your financial needs. Easily create custom categories to organize your expenses and gain a clear overview of your spending patterns. The app allows you to create budgets for each month, helping you achieve your financial goals and avoid overspending. Download Money Tracker now and take charge of your financial future.
+
+short: Simplify finances with Money Tracker. Secure Google login, track expenses, set budgets effortlessly. Stay in control of your money.
+
+Mail: mdh95831@gmail.com
+
+Policy: https://doc-hosting.flycricket.io/money-tracker-privacy-policy/cbeca0d0-77f2-428d-8bc3-0cab83574875/privacy
